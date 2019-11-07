@@ -1,0 +1,18 @@
+.isa_success{
+	color:green;
+	text-align:center;
+}
+.styleDiv{
+    width: auto;
+    background-color: #fff;
+    padding: 8px 12px;
+    border-left: 4px solid #4CAF50;
+    word-wrap: break-word;
+}
+
+.mainDiv{
+    background-color: #f1f1f1;
+    padding: 0.01em 16px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;	
+}
